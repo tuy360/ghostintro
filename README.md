@@ -13,4 +13,5 @@ Goal: submit a PR to this repo that adds your name and email address to the list
 | Nick Sittinger  | nsittinger@gmail.com  |
 | Kalene Csefalvay  | kalenenc@gmail.com  |
 | Omar Yusuf | omaryusuf@outlook.com   |
+| CJ Gossett | BILLPC2684@gmail.com |
 |   |   |
